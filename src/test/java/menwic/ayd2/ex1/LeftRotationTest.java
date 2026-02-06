@@ -1,4 +1,4 @@
-﻿package menwic.ayd2.ex1;
+package menwic.ayd2.ex1;
 
 import org.junit.jupiter.api.Test;
 
